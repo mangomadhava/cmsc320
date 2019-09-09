@@ -1,4 +1,5 @@
-# cmsc320
+# cmsc320 Final Project
+## Explanation of the project is located in the Final Project (1).ipynb file. 
 Images/plots are uploaded seperately. 
 
 6.24.15 is made using Arcgis, it shows a sample of 5000 accidents.
